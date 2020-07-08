@@ -1,0 +1,11 @@
+{
+  "name": "products-api",
+  "version": "0.1.0",
+  "description": "Express API for My Practice 'cause I Suck at it for now",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
